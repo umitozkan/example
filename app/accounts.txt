@@ -1,0 +1,15 @@
+Use the following accounts for testing purposes:
+
+Admin:
+email: admin@gmail.com
+password: password
+
+Users:
+email: jdoe@gmail.com
+password: password
+
+email: mjane@gmail.com
+password: password
+
+email: fbar@gmail.com
+password: password

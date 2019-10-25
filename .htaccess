@@ -1,0 +1,20 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine on
+	RewriteRule ^$ public/ [L]
+	RewriteRule (.*) public/$1 [L]
+</IfModule>
+
+#RewriteEngine on
+#RewriteBase /
+#
+## Rewrite if the file does not exists
+#RewriteCond %{REQUEST_FILENAME} !-f
+#
+## Rewrite only if the URI does not starts with Assets
+#RewriteCond %{REQUEST_URI} !^/public
+#
+## Rewrite any assets file
+#RewriteEngine On
+#RewriteRule ([^/]*).(css)$ public/css/$1.$2 [L]
+#RewriteRule ([^/]*).(js)$ public/js/$1.$2 [L]
+#RewriteRule ([^/]*).(png|jpe?g)$ public/img/$1.$2 [L]

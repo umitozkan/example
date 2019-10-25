@@ -1,0 +1,14 @@
+
+g	php:S1126¢"EReplace this "if-then-else" statement by a single "return" statement.(ÌÍîºşÿÿÿÿ8şâûÃÓ-
+|	php:S1488="`Immediately return this expression instead of assigning it to the temporary variable "$results".(›İã…8şâûÃÓ-
+|	php:S1488G"`Immediately return this expression instead of assigning it to the temporary variable "$results".(›İã…8şâûÃÓ-
+|	php:S1488"`Immediately return this expression instead of assigning it to the temporary variable "$results".(›İã…8şâûÃÓ-
+|	php:S1488c"`Immediately return this expression instead of assigning it to the temporary variable "$results".(›İã…8şâûÃÓ-
+y	php:S1488­"\Immediately return this expression instead of assigning it to the temporary variable "$row".(ÅšÜ8şâûÃÓ-
+	php:S1488Q"`Immediately return this expression instead of assigning it to the temporary variable "$results".(œ†ğªüÿÿÿÿ8şâûÃÓ-
+G	php:S1172]"+Remove the unused function parameter "$id".(ó«ªŒ8öü‚ÄÓ-
+|	php:S1488Y"`Immediately return this expression instead of assigning it to the temporary variable "$results".(ÌÕ€´8şâûÃÓ-
+U	php:S1135^"4Complete the task associated to this "TODO" comment.(¹úİİşÿÿÿÿ8¬‰ıÃÓ-
+g	php:S1126·"EReplace this "if-then-else" statement by a single "return" statement.(ÌÍîºşÿÿÿÿ8şâûÃÓ-
+a	php:S1126"EReplace this "if-then-else" statement by a single "return" statement.(¹ŒŞ½8şâûÃÓ-
+|	php:S1488("`Immediately return this expression instead of assigning it to the temporary variable "$results".(›İã…8şâûÃÓ-

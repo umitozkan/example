@@ -1,0 +1,7 @@
+
+a	php:S1126%"EReplace this "if-then-else" statement by a single "return" statement.(¡îÆ¤8ã‘—ÅÓ-
+P	php:S1135"4Complete the task associated to this "TODO" comment.(½­²8ã‘—ÅÓ-
+E	php:S1481"")Remove this unused "$row" local variable.(ÅšÜ8ã‘—ÅÓ-
+I	php:S1172
+"-Remove the unused function parameter "$data".(ªı‘İ8ã‘—ÅÓ-
+x	php:S14881"\Immediately return this expression instead of assigning it to the temporary variable "$row".(ÅšÜ8ã‘—ÅÓ-
